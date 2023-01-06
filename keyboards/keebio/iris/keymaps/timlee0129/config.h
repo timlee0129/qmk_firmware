@@ -1,5 +1,6 @@
 #pragma once
 
 #define IGNORE_MOD_TAP_INTERRUPT
-#define TAPPING_TERM 200
+#define TAPPING_TERM 175
 #define TAPPING_TOGGLE 2
+#define COMBO_COUNT 1
