@@ -4,3 +4,5 @@
 #define TAPPING_TERM 175
 #define TAPPING_TOGGLE 2
 #define COMBO_COUNT 1
+#define MK_3_SPEED
+#define MK_C_OFFSET_UNMOD 32
